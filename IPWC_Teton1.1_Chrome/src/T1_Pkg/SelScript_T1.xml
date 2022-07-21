@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Selenium Test for IPWC">
+   <test name="Quick Lights On Test on IPWC ">
+   
+    <classes>
+       <class name="T1_Pkg.IPWCLogin_T1" />
+      <class name="T1_Pkg.VerifyBuildAndVersion_T1" />
+      <class name="T1_Pkg.SelectTestProgram_T1" />
+      <class name="T1_Pkg.PersonalTab_T1" />
+      <class name="T1_Pkg.ProgramTab_T1" />
+      <class name="T1_Pkg.ProjectsTab_T1" />
+      <class name="T1_Pkg.TasksTab_T1" />
+      <class name="T1_Pkg.TimesheetsTab_T1" />
+      <class name="T1_Pkg.RiskTab_T1" />
+      <class name="T1_Pkg.IssuesTab_T1" />
+      <class name="T1_Pkg.DocumentsTab_T1" />
+      <class name="T1_Pkg.ReportsTab_T1" />
+      <class name="T1_Pkg.UsersTab_T1" />
+      <class name="T1_Pkg.LogoutIPWC_T1" />
+      <class name="T1_Pkg.createLineChart_T1" />
+   </classes>
+  
+
+  </test>
+</suite>	
